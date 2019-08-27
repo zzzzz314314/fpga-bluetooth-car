@@ -4,7 +4,7 @@
 
 <br>
 <br>
-![](https://github.com/zzzzz314314/fpga-bluetooth-car/blob/master/fpga_car.png)
+![](https://github.com/zzzzz314314/fpga-bluetooth-car/blob/master/fpga_car.png)<br>
 
 其中的兩種模式詳述如下：<br>
 - Manual: 於手機控制上、下、左、右
@@ -14,14 +14,14 @@
 <br>
 <br>
 <br>
-![](https://github.com/zzzzz314314/fpga-bluetooth-car/blob/master/fpga_car3.png)
+![](https://github.com/zzzzz314314/fpga-bluetooth-car/blob/master/fpga_car3.png)<br>
 <br>
 <br>
 <br>
 <br>
-![](https://github.com/zzzzz314314/fpga-bluetooth-car/blob/master/fpga_car2.png)
+![](https://github.com/zzzzz314314/fpga-bluetooth-car/blob/master/fpga_car2.png)<br>
 <br>
 <br>
 <br>
 <br>
-![](https://github.com/zzzzz314314/fpga-bluetooth-car/blob/master/fpga_car1.png)
+![](https://github.com/zzzzz314314/fpga-bluetooth-car/blob/master/fpga_car1.png)<br>
