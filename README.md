@@ -9,11 +9,9 @@
 - Manual: 於手機控制上、下、左、右
 - Auto: 車子自動前行，前方有障礙物時，後退、左轉、再前行。手機使用android studio寫app，介面如下
 
-
-
-![](https://github.com/zzzzz314314/fpga-bluetooth-car/blob/master/fpga_car3.png)<br>
+![](https://github.com/zzzzz314314/fpga-bluetooth-car/blob/master/fpga_car1.png)<br>
 
 ![](https://github.com/zzzzz314314/fpga-bluetooth-car/blob/master/fpga_car2.png)<br>
 
 
-![](https://github.com/zzzzz314314/fpga-bluetooth-car/blob/master/fpga_car1.png)<br>
+![](https://github.com/zzzzz314314/fpga-bluetooth-car/blob/master/fpga_car3.png)<br>
