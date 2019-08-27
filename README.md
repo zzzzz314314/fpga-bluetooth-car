@@ -1,1 +1,1 @@
-# school-projects
+# FPGA bluetooth car
