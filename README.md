@@ -14,4 +14,4 @@
 ![](https://github.com/zzzzz314314/fpga-bluetooth-car/blob/master/fpga_car2.png)<br><br><br>
 # 成品
 ![](https://github.com/zzzzz314314/fpga-bluetooth-car/blob/master/fpga_car3.png)<br>
-更多細節請於report中瀏覽
+更多細節請於report中瀏覽，另關於app控制端，請於fpga-bluetooth-car-control project中瀏覽
